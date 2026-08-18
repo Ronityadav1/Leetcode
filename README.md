@@ -5,4 +5,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Ronityadav1/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Ronityadav1/Leetcode/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Ronityadav1/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
